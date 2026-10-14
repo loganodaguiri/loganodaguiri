@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/logan-odaguiri-1345a719a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=loganodaguiri&style=flat-square&color=0077B5&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/loganodaguiri?label=Followers&style=for-the-badge&color=0077B5&labelColor=0d1117" />
 </p>
 
 </div>
