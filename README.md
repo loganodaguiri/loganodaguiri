@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Logan%20Odaguiri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer&descSize=20&descAlignY=58&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Logan%20Odaguiri&fontSize=52&fontColor=ffffff&fontAlignY=50" />
 
 <p>
   <a href="https://www.linkedin.com/in/logan-odaguiri-1345a719a/" target="_blank">
